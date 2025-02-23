@@ -65,6 +65,7 @@ hit 'Add'
 
 Channel name always start with '@' that would make it a variable
 
+![image](https://github.com/user-attachments/assets/e4445aa7-4797-4b6c-b72c-411347516264)
 
 
 ## Upload new layout

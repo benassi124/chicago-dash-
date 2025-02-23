@@ -4,3 +4,6 @@
 
 
 [Download DashEditor57d.rar](https://github.com/rusefi/chicago-dash-docs/raw/refs/heads/main/dash-editor/DashEditor57d.rar)
+
+
+Default project "File->Open Project" DashEditor\System\scr.txt

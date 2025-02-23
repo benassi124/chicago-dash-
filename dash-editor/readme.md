@@ -5,11 +5,21 @@
 
 [Download DashEditor57d.rar](https://github.com/rusefi/chicago-dash-docs/raw/refs/heads/main/dash-editor/DashEditor57d.rar)
 
-Main screen of editor shows screen layout. Screen layout consists of 10 types of visual primitives.
+Main screen of editor shows screen layout. Screen layout consists of 10 types of visual primitives. Visual primitives are controlled according to "Logic" formulas. We also have amazing "debug" window allowing to set virtual inputs while we are playing with editor.
 
 
 Let's start from default project which comes as part of editor distribution file.
 "File->Open Project" DashEditor\System\scr.txt
+
+
+Here we have some groups and top level primitives.
+
+![image](https://github.com/user-attachments/assets/fcfb8bf1-04d6-4ecf-99b9-2ae983324e34)
+
+
+Double-click on left column icon to edit primitive or open group.
+
+Second column (for instance HI/LO on the screenshot) shows current value as rendered on the right according to current state of DEBUG.
 
 
 

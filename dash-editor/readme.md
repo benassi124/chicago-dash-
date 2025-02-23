@@ -27,6 +27,15 @@ Click top bar menu "Add" to add additional visual primitive.
 
 ## Visual Primitives
 
+### Text
+
+Static text
+
+### Digt
+
+Text control displaying live numeric value
+
+
 ### Rectangle
 
 Invisible when disabled/display rectangle of selected style when enabled.
@@ -43,3 +52,9 @@ Do not ask why, but "HI" means "Always logical High"
 ### Digital Input
 
 DI
+
+
+
+## Upload adjusted changes
+
+12v power, USB, 

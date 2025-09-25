@@ -15,8 +15,6 @@ Accelerometer
 
 Video: rear-view camera input
 
-Wi-Fi (in development)
-
 Logger
 
 Discrete outputs: 2× (optional)

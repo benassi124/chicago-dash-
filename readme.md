@@ -54,6 +54,26 @@ Control: 4 inputs for buttons
 CNC-machined aluminum with black anodizing
 
 
+# light-DASH-5
+
+## Software Capabilities
+
+Freely configurable interface
+
+Flexible operational logic
+
+## Additional Functions
+
+Indication: 10× RGB LEDs
+
+## Display
+
+5" IPS, 1024×600
+
+## Power and Inputs
+
+Power: 6-24V
+
 
 
 ![image](https://github.com/user-attachments/assets/d53b5da4-bdb3-4602-942e-5840fa525ed7)

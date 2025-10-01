@@ -1,5 +1,5 @@
 
-# DASH2
+# English documentation for TDG family of commerial propriatry dashboards
 
 ## Software Capabilities
 

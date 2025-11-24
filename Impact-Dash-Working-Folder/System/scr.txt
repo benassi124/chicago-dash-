@@ -59,6 +59,7 @@ ARROW=PAGE:4|ENABLE:HI|X:502|Y:315|IMAGE:17|XC:27|YC:397|FIRST_ANGLE:93.000000|L
 ARROW=PAGE:4|ENABLE:HI|X:502|Y:315|IMAGE:12|XC:74|YC:330|FIRST_ANGLE:-135.000000|LAST_ANGLE:135.000000|FIRST_INPUT:0.000000|LAST_INPUT:8000.000000|INPUT:DASH_RPM;//rpm
 IMAGE=PAGE:4|ENABLE:HI|X:0|Y:0|IMAGE:9;
      //=======Page:5
+DIGT=PAGE:5|ENABLE:HI|X:363|Y:208|ALIGNMENT:C|COLOUR:2|FONT:6|INPUT:DASH_GEAR|DPS:0;//Gear
      //=======Page:6
      //=======Page:7
      //=======Page:8
@@ -178,6 +179,7 @@ LED.10=BLUE:0xFF|ENABLE:TIM.3;
 
 //DASH-SETUP==========================================================================================================================
 //DASH_RPM=@RPM;
+DASH_GEAR=@CurrentGear;
 
 END;
 

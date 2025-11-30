@@ -15,6 +15,8 @@ Any mathematics can be done through MATH field and then used in Dash Config.
 **Example converting Km/H to MPH**
 <img width="334" height="53" alt="image" src="https://github.com/user-attachments/assets/88fedcea-c145-4395-b636-6e6e7ade1011" />
 
+## Not Statements
+Problem Statement: For DASH_Gear how can I make a statement that if DASH_GEAR = 0 display N for neutral
 
 ## Alarm Logic
 Oil Alarm
